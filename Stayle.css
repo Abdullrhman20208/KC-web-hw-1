@@ -1,0 +1,41 @@
+h1{
+
+  background-color: rgb(255, 219, 151);
+   color: rgb(255, 134, 48);
+      width: 150px;
+      font-family: 'IBM Plex Serif', serif;
+     
+
+
+}
+
+p{
+  font-family: 'IBM Plex Mono', monospace;
+}
+
+#email{
+ text-decoration: none;
+ color: rgb(139, 121, 98);
+ transition: all 0.5s;
+
+}
+
+#Ranks{
+  background-color:rgb(200, 200, 135);
+  width: 100px; ;
+}
+.container {
+  transition: all 0.5s;
+  color:rgb(139, 121, 98);
+}
+.container:hover{
+  background-color: rgb(186, 187, 190);
+}
+#email:hover{
+  background-color: rgb(186, 187, 190)
+}
+.MANA{
+  color: #6e3e05;
+   background-color: cornsilk;
+   width: 550px;
+}
